@@ -18,6 +18,7 @@ public class Add {
 		sum = a+b;
 		
 		System.out.println("Sum of a+b is : " + sum);
+		System.out.println("Sum of a+b is:" + sum);
 
 	}
 
